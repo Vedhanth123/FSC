@@ -1,7 +1,16 @@
 {
+  "name": "hobby-guide",
+  "version": "1.0.0",
+  "description": "An AI agent which will give us suggestions on what to do based on the location and the current weather conditions of that location",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Vedhanth",
+  "license": "ISC",
   "dependencies": {
-    "@google/genai": "^1.33.0",
-    "dotenv": "^17.2.3",
-    "openai": "^6.10.0"
+    "@google/genai": "^1.34.0",
+    "dotenv": "^17.2.3"
   }
 }
