@@ -1,0 +1,18 @@
+cars_id,brand,model,seller_name,city,sold_date
+49,Volkswagen,Beetle,Clara Beck,Atlanta,Mon Jan 09 2023 05:30:00 GMT+0530 (India Standard Time)
+53,Aston Martin,DB5,Nina Nitro,Chicago,Thu Nov 19 2020 05:30:00 GMT+0530 (India Standard Time)
+55,Fiat,124 Spider,Tina Torque,Atlanta,Sun Jun 28 2020 05:30:00 GMT+0530 (India Standard Time)
+59,AMC,Javelin,Sasha Miles,Detroit,Thu Nov 12 2020 05:30:00 GMT+0530 (India Standard Time)
+62,Toyota,2000GT,Clara Beck,Atlanta,Wed Oct 05 2022 05:30:00 GMT+0530 (India Standard Time)
+64,Chevrolet,Bel Air,Tina Torque,Atlanta,Wed May 18 2022 05:30:00 GMT+0530 (India Standard Time)
+67,Fiat,124 Spider,Clara Beck,Atlanta,Sun Mar 17 2024 05:30:00 GMT+0530 (India Standard Time)
+69,Toyota,2000GT,Cal Mason,Detroit,Mon Jun 21 2021 05:30:00 GMT+0530 (India Standard Time)
+70,Lincoln,Continental,Sasha Miles,Detroit,Sat Mar 15 2025 05:30:00 GMT+0530 (India Standard Time)
+71,Alfa Romeo,Spider,Nina Nitro,Chicago,Tue Sep 01 2020 05:30:00 GMT+0530 (India Standard Time)
+73,AMC,Javelin,Cal Mason,Detroit,Thu Jun 23 2022 05:30:00 GMT+0530 (India Standard Time)
+77,AMC,Javelin,Sasha Miles,Detroit,Wed Mar 10 2021 05:30:00 GMT+0530 (India Standard Time)
+,,,Axel Grimes,,
+,,,Elle Bowgrease,,
+,,,Bobby Turner,Detroit,
+,,,Tony Turner,,
+,,,Owen Carr,Atlanta,

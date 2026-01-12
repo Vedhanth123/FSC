@@ -1,0 +1,57 @@
+id,brand,model,year,price,color,condition,sold,dealership_id
+1,Ford,Mustang,1965,45000,white,4,false,1
+2,Chevrolet,Camaro,1970,48000,red,2,false,1
+4,Porsche,911,1985,85000,silver,5,false,1
+9,Ferrari,F355,1997,150000,red,5,false,1
+11,Aston Martin,DB5,1964,595000,silver,5,false,1
+12,Aston Martin,DB4,1960,465000,light green,5,false,1
+13,Aston Martin,DBS,1969,99000,red,2,false,1
+14,Aston Martin,DB4,1960,425000,green,3,false,1
+15,Aston Martin,DB5,1965,649000,dark red,5,false,1
+17,Nissan,Skyline GT-R,1999,95000,blue,5,false,1
+19,Lamborghini,Countach,1989,320000,red,5,false,1
+21,Bentley,Continental GT,2005,85000,black,5,false,1
+25,Lotus,Esprit,1993,62000,light yellow,4,false,1
+27,Ford,Capri,1983,22000,blue,2,false,1
+28,Ford,Granada,1977,18000,black,1,false,1
+35,Bentley,Arnage,2001,45000,black,4,false,1
+36,Bentley,Continental R,1999,68000,blue,5,false,1
+37,Jaguar,XJ220,1994,450000,silver,5,false,1
+38,Porsche,911 Carrera,1985,85000,red,5,false,1
+39,Porsche,911 Turbo,1995,12000,black,1,false,1
+41,Porsche,356B,1960,265000,silver,4,false,1
+42,Mercedes-Benz,300SLR,1955,142000000,silver,5,false,1
+43,Bentley,T2,1978,52000,silver,4,false,1
+45,Aston Martin,V8 Vantage,1977,145000,dark green,5,false,1
+46,Chevrolet,Bel Air,1955,50000,purple,5,false,1
+47,Porsche,944 Turbo,1986,72000,white,5,false,1
+48,Volkswagen,Beetle,1967,15000,black,1,false,1
+49,Volkswagen,Beetle,1967,25000,red,3,true,2
+50,Ford,Mustang,1965,10000,yellow,0,false,2
+51,Mercedes-Benz,300SL,1954,35000,green,4,false,1
+52,Porsche,356,1955,40000,cream,5,true,2
+53,Aston Martin,DB5,1964,45000,blue,5,true,2
+54,AMC,Javelin,1971,22000,cream,2,false,1
+55,Fiat,124 Spider,1978,30000,green,3,true,1
+56,BMW,2002,1973,32000,green,4,false,2
+57,Volkswagen,Beetle,1967,28000,grey,3,false,3
+58,Volkswagen,Beetle,1967,12000,blue,1,false,3
+59,AMC,Javelin,1971,18000,blue,1,true,2
+60,BMW,2002,1973,35000,black,4,false,1
+61,Chevrolet,Bel Air,1957,38000,white,4,false,3
+62,Toyota,2000GT,1967,45000,blue,5,true,1
+63,Pontiac,GTO,1966,30000,cream,3,false,2
+64,Chevrolet,Bel Air,1957,24000,white,2,true,2
+65,Alfa Romeo,Spider,1974,33000,blue,3,false,3
+66,AMC,Javelin,1971,16000,green,1,false,3
+67,Fiat,124 Spider,1978,18000,green,2,true,1
+68,Pontiac,GTO,1966,50000,red,5,true,1
+69,Toyota,2000GT,1967,47000,red,5,true,1
+70,Lincoln,Continental,1965,32000,white,4,true,2
+71,Alfa Romeo,Spider,1974,26000,black,2,true,3
+72,Ferrari,250 GTO,1962,60000,white,5,false,2
+73,AMC,Javelin,1971,22000,grey,2,true,2
+74,Volkswagen,Beetle,1967,29000,green,3,false,1
+75,Pontiac,GTO,1966,17000,cream,2,false,1
+76,Toyota,2000GT,1967,48000,black,5,false,2
+77,AMC,Javelin,1971,14000,blue,1,true,2

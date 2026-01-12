@@ -1,0 +1,18 @@
+id,dealership_id,name,role
+1,1,Rodney Ride,CEO
+2,1,Penny Piston,Accountant
+3,1,Rhonda Rules,HR Officer
+4,1,Nina Nitro,Salesperson
+6,1,Mike Anic,Mechanic
+7,1,Meg A Byte,Data Administrator
+8,2,Tina Torque,Salesperson
+9,2,Owen Carr,Salesperson
+10,2,Clara Beck,Salesperson
+11,2,Mo Motor,Mechanic
+12,3,Sasha Miles,Salesperson
+13,3,Bobby Turner,Salesperson
+14,3,Cal Mason,Salesperson
+15,3,Reggie Ratchet,Mechanic
+16,,Tony Turner,Salesperson
+17,,Axel Grimes,Salesperson
+18,,Elle Bowgrease,Salesperson
